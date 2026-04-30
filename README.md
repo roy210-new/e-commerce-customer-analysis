@@ -434,7 +434,7 @@ Recommended actions include:
 - Use membership-tier insights to convert high-value Free and Silver customers into higher loyalty tiers.
 - Combine revenue contribution and CLV analysis to identify categories where customer loyalty programs may create the strongest long-term value.
 
-### 📍 Page 3: RFM Customer Segmentation — Key Insights
+### Page 3: RFM Customer Segmentation — Key Insights
 
 The RFM analysis segments customers based on **Recency**, **Frequency**, and **Monetary Value** to identify high-value customers, loyal customers, inactive customers, and reactivation opportunities.
 
@@ -625,7 +625,7 @@ The business should prioritize a customer lifecycle strategy that focuses on:
 
 Acquire → Retain early → Grow value → Reactivate at-risk customers
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **PostgreSQL** — SQL analysis and data transformation  
 - **DBeaver** — SQL query execution  
@@ -633,7 +633,7 @@ Acquire → Retain early → Grow value → Reactivate at-risk customers
 - **Excel / CSV** — Data export and preparation  
 - **GitHub** — Project documentation and portfolio hosting
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ### Page 1: Customer Retention Analysis
 
@@ -667,7 +667,7 @@ Overall, the project shows how SQL and Power BI can be used together to support 
 
 ---
 
-## 👤 Author
+## Author
 
-**Lau Xian Jin**  
+Xian Jin Lau  
 
